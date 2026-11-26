@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ai-spirit": {
+      "type": "http",
+      "url": "https://relay.get-ai-spirit.com/mcp"
+    }
+  }
+}
