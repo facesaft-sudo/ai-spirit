@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" alt="AI Spirit" width="160"></p>
+
 # AI Spirit – connector for Claude, ChatGPT and Gemini CLI
 
 AI Spirit is a personal assistant that runs on your own Windows PC. This repository only contains the small connection files that let an AI app talk to **your own** Spirit through the AI Spirit connector at `https://relay.get-ai-spirit.com/mcp`. It contains no Spirit software and no data.
