@@ -1,0 +1,11 @@
+{
+  "name": "ai-spirit",
+  "version": "1.0.0",
+  "description": "Search, read and draft with the notes and files you shared with your own AI Spirit assistant on your PC.",
+  "mcpServers": {
+    "ai-spirit": {
+      "httpUrl": "https://relay.get-ai-spirit.com/mcp",
+      "timeout": 60000
+    }
+  }
+}
