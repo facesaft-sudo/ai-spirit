@@ -1,0 +1,12 @@
+{
+  "name": "ai-spirit",
+  "displayName": "AI Spirit",
+  "version": "1.0.0",
+  "description": "Search, read and draft with the notes and files you shared with your own AI Spirit assistant on your PC.",
+  "author": {
+    "name": "AI Spirit",
+    "url": "https://get-ai-spirit.com"
+  },
+  "homepage": "https://get-ai-spirit.com",
+  "license": "MIT"
+}
